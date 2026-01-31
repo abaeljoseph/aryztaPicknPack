@@ -156,6 +156,6 @@ GIF PLACEHOLDER – GUI operation
 
 ## Contributors
 
-Developed by Abael Joseph, Samir Safarjlani, Nikhil Sudhir 
-University of Technology Sydney  
+Developed by Abael Joseph, Samir Safarjlani, Nikhil Sudhir
+University of Technology Sydney 
 Mechatronics Engineering
